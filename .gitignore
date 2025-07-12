@@ -1,7 +1,21 @@
+# Ignore virtual environment
 venv/
+
+# Python cache
 __pycache__/
 *.pyc
-outputs/
+
+# Ignore all output files except the final video
+outputs/*
+!outputs/tracked_output.mp4
+
+# Ignore all raw video files
 videos/
 *.mp4
+
+# Ignore model files (YOLOv8 weights, etc.)
 *.pt
+
+# Ignore system files
+.DS_Store
+
