@@ -3,6 +3,9 @@
 This project performs real-time **player tracking and re-identification** in sports footage using a fine-tuned **YOLOv8** detection model and **DeepSORT** for consistent identity assignment.
 
 > **Objective:** Maintain consistent player IDs across a single video, even when players briefly leave and re-enter the frame.
+> ## 🧠 Model Weights
+
+📦 Download the YOLOv8 model (`yolo_model.pt`) from [this Google Drive link](https://drive.google.com/uc?export=download&id=1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD)
 
 ---
 
