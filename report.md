@@ -61,3 +61,20 @@ Track each player in a 15-second football video and ensure that each retains the
 - `tracked_output.mp4` (output)
 - `README.md`, `report.md`
 
+---
+
+## 📦 Source Code & Release
+
+The complete source code is available on GitHub:  
+🔗 [GitHub Repository](https://github.com/hdomadia7601/player-reid)
+
+A clean, downloadable release (`v1.0`) has been published:  
+📥 [Download Release ZIP](https://github.com/hdomadia7601/player-reid/releases/tag/v1.0)
+
+The release includes:
+- Tracking script (`detect.py`)
+- Sample output (`tracked_output.mp4`)
+- Updated README with model weight download link
+- Clean `.gitignore` and folder structure
+
+
